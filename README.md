@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Batu Rüzgar Kara</h1>
+<h3 align="center">Electrical-Electronics Engineer • Student • Builder</h3>
 
-<!--
-**baturuzgarkara/baturuzgarkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electrical & Electronics Engineering student focused on building things that create real value.  
+I enjoy learning by doing, turning ideas into working systems, and continuously improving my technical skillset.
+
+Currently exploring software development alongside engineering to design practical and impactful solutions.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+- Python
+- Dart
+
+**Tools & Technologies**
+- Git
+- PostgreSQL
+
+---
+
+## 🛠️ What I Do
+
+- Build and experiment with new ideas
+- Learn through hands-on projects
+- Combine engineering thinking with software development
+- Focus on creating useful and meaningful products
+
+---
+
+## 📈 Current Focus
+
+- Improving software engineering fundamentals
+- Developing scalable project structures
+- Expanding backend and system design knowledge
