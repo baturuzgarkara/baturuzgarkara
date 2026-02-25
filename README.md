@@ -17,6 +17,7 @@ Currently exploring software development alongside engineering to design practic
 **Languages**
 - Python
 - Dart
+- C
 
 **Tools & Technologies**
 - Git
